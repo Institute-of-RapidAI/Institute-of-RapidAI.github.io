@@ -22,3 +22,10 @@ RapidAI研究院为RapidAI开源组织下属学术机构，民办非企业学术
 
 ![image size](images/IDC-V1.png)
 
+
+
+### 管理团队
+- 荣誉院长：
+- 执行院长：马勇 （znsoft)
+- 首席科学家：
+- 工程总监：
