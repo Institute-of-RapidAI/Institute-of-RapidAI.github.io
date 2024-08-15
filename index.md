@@ -15,4 +15,4 @@ RapidAI研究院为RapidAI开源组织下属学术机构，民办非企业学术
 
 下图为本研究院初代IDC中心存档图片：
 
-[初代IDC](IDC-V1.png "RapidAI IDC V1.0")
+![image][images/IDC-V1.png]
