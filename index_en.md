@@ -6,7 +6,7 @@
 
 The RapidAI Research Institute is an academic institution under the RapidAI open-source organization, a privately funded non-enterprise academic institution (under preparation), with the Chinese name:捷智技术研究院.
 
-Membership Rules
+### Membership Rules
 - Students of the Danibo Academic Institution automatically become intern researchers at this institute.
 - Master's and doctoral students under the China Excellent Engineer Program automatically become intern researchers.
 - Graduate students from Beijing Institute of Technology / Beijing University of Posts and Telecommunications guided by mentors from this institute automatically become intern researchers.
