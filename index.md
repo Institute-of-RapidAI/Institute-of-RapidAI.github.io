@@ -18,5 +18,5 @@ RapidAI研究院为RapidAI开源组织下属学术机构，民办非企业学术
 #### IDC配置
 1000M互联网接入，双GPU (4090 & 6000 ADA), 50T存贮空间。
 
-![test image size](images/IDC-V1.png){:height="50%" width="50%"}
+<img src="images/IDC-V1.png" width=50%>
 
