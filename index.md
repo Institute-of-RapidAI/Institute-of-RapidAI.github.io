@@ -13,4 +13,6 @@ RapidAI研究院为RapidAI开源组织下属学术机构，民办非企业学术
 ### 本研究院研究员所发表论文，第二作者单位标注为 RapidAI Research Institute， 邮箱后缀 @rapidai.tech，为所有7级副研究员或以上资格成员提供永久邮箱服务，便于与同行长期学术交流。
 
 
-下图为
+下图为本研究院初代IDC中心存档图片：
+
+[IDC-V1.png](RapidAI IDC V1.0)
