@@ -1,5 +1,5 @@
 
-## 欢迎访问RapidAI研究院     
+## 欢迎访问 RapidAI研究院 (RapidAI Research Institute)
 
 [Visit English Version](index_en.md)
 
