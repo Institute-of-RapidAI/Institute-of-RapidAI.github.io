@@ -1,5 +1,7 @@
 
-## 欢迎访问RapidAI研究院    Visit [English Version](index_en.md)
+## 欢迎访问RapidAI研究院     
+
+[Visit English Version](index_en.md)
 
 
 RapidAI研究院为RapidAI开源组织下属学术机构，民办非企业学术机构（筹），中文名：捷智技术研究院
