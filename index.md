@@ -1,5 +1,5 @@
 
-## 欢迎访问RapidAI研究院
+## 欢迎访问RapidAI研究院    Visit [English Version](index_en.md)
 
 
 RapidAI研究院为RapidAI开源组织下属学术机构，民办非企业学术机构（筹），中文名：捷智技术研究院
@@ -15,4 +15,8 @@ RapidAI研究院为RapidAI开源组织下属学术机构，民办非企业学术
 
 下图为本研究院初代IDC中心存档图片：
 
-![image](images/IDC-V1.png)
+#### IDC配置
+1000M互联网接入，双GPU (4090 & 6000 ADA), 50T存贮空间。
+
+![image size](images/IDC-V1.png)
+
