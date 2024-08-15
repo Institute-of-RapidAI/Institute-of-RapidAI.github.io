@@ -17,3 +17,4 @@ The image below shows the archival picture of the initial IDC center of this ins
 
 IDC Configuration
 1000M Internet access, dual GPU (4090 & 6000 ADA), 50T storage space.
+<img src="images/IDC-V1.png" width=50%>
