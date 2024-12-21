@@ -1,7 +1,7 @@
 
 ## 欢迎访问 RapidAI研究院 (RapidAI Research)
 
-[Visit English Version](index_en.md)  [论文列表](paperlist.md)
+[Visit English Version](index_en.md)    $~~~~$  [论文列表](paperlist.md)
 
 
 RapidAI研究院为RapidAI开源组织下属学术机构，中文名：捷智技术研究院
