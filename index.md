@@ -6,6 +6,9 @@ RapidAI研究院为RapidAI开源组织下属学术机构，中文名：捷智技
 
 [Visit English Version](index_en.md)     [论文列表](paperlist.md)
 
+## RapidAI Research 招募远程访问学生
+
+招募 大学本科2年级下学期学生（优秀学生可放宽到3年级上学期）进组访问，提供论文指导与计算资源，协助发表论文。有意联系邮箱：admission#rapidai.tech , #替换为@。
 
 ## 最新消息
 
